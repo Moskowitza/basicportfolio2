@@ -1,0 +1,9 @@
+body {
+  background-color: blue;
+}
+#impact {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+}
